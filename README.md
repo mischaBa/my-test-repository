@@ -3,4 +3,4 @@ Repo to get started with github
 
 Sun is rising!
 
-new lines were added locally
+new lines added in remote repository!
